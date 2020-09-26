@@ -1,2 +1,4 @@
-# repo_terminal
-Trial for use of terminal during class
+# Welcome
+This is my homework
+It was fun to do 
+
